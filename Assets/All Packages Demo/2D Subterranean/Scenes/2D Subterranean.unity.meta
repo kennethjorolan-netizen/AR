@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b3021f1cb40382a498f7be096a45efce
+timeCreated: 1503062247
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97726
+  packageName: All Packages Demo
+  packageVersion: 1.4.1
+  assetPath: Assets/All Packages Demo/2D Subterranean/Scenes/2D Subterranean.unity
+  uploadId: 859114

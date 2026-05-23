@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c40c74a55c618cf4aa1b3575919f6ea3
+timeCreated: 1488793113
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97726
+  packageName: All Packages Demo
+  packageVersion: 1.4.1
+  assetPath: Assets/All Packages Demo/2D Fairy Forest/Scenes/Materials/Material.mat
+  uploadId: 859114

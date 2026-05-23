@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="wheat" size="15.000000 8.372093" />
+    <ImageTarget name="tomato" size="15.000000 8.372093" />
+    <ImageTarget name="sunflower" size="15.000000 8.372093" />
+    <ImageTarget name="rose" size="15.000000 8.372093" />
+    <ImageTarget name="riceplant" size="15.000000 8.372093" />
+    <ImageTarget name="neem" size="15.000000 8.372093" />
+    <ImageTarget name="mango" size="15.000000 8.372093" />
+    <ImageTarget name="cactus" size="15.000000 8.372093" />
+    <ImageTarget name="bananaplant" size="15.000000 8.372093" />
+    <ImageTarget name="aloevera" size="15.000000 8.372093" />
+  </Tracking>
+</QCARConfig>

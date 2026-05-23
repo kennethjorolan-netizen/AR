@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a783d01cd6ae95c489cde5e5edfe0916
+timeCreated: 1503053003
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97726
+  packageName: All Packages Demo
+  packageVersion: 1.4.1
+  assetPath: Assets/All Packages Demo/2D Avatar Night/Scenes/Materials/Material.mat
+  uploadId: 859114

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6faea3b5aa320084c9c6f9ba8b3affab
+timeCreated: 1489655101
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97726
+  packageName: All Packages Demo
+  packageVersion: 1.4.1
+  assetPath: Assets/All Packages Demo/2D Subterranean/Scenes/Materials/Material.mat
+  uploadId: 859114

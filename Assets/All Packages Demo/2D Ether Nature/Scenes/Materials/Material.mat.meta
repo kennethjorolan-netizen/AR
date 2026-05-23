@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20099e9f559405b4c928f1ff07141938
+timeCreated: 1502465257
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 97726
+  packageName: All Packages Demo
+  packageVersion: 1.4.1
+  assetPath: Assets/All Packages Demo/2D Ether Nature/Scenes/Materials/Material.mat
+  uploadId: 859114
