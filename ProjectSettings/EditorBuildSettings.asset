@@ -13,7 +13,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Home.unity
     guid: 74abcd588cb8aef40a62dfb57155911a
     type: 1
+  - enabled: 1
+    path: Assets/Scenes/Scanner.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    type: 1
+  - enabled: 1
+    path: Assets/Scenes/Plants.unity
+    guid: 2d758b88f2426dc44bf938c4d4601e33
+    type: 1
+  - enabled: 1
+    path: Assets/Scenes/About.unity
+    guid: 2b7de5db6789e0d479075807c9703b17
+    type: 1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
   m_UseUCBPForAssetBundles: 0
-

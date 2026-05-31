@@ -5,11 +5,14 @@ public class SceneNavigator : MonoBehaviour
 {
     public void LoadHome()
     {
-        SceneManager.LoadScene("Home");
+        MobileAppExperience.LoadSceneWithMobileFlow("Home");
     }
 
     public void LoadSceneByName(string sceneName)
     {
-        SceneManager.LoadScene(sceneName);
+        if (sceneName == "Scanner")
+            MobileAppExperience.LoadScannerWithCameraFlow();
+        else
+            MobileAppExperience.LoadSceneWithMobileFlow(sceneName);
     }
 }
